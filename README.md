@@ -26,7 +26,7 @@ Instead of writing SKILL code manually, just describe what you want:
 
 ## 🚀 Live Demo
 
-> 🔗 **[Try it live on Streamlit Cloud](#)** *(coming soon)*
+> 🔗 **[Try it live](https://skill-script-generator-fys6ptd2znbgagtqm4zqmm.streamlit.app)**
 
 ---
 
