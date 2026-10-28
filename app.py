@@ -29,10 +29,7 @@ if DEFAULT_MODEL not in MODEL_OPTIONS:
 # ── Header ────────────────────────────────────────────────
 st.title("⚡ Cadence SKILL Script Generator")
 st.markdown("**Describe your PCB automation task in plain English → get a draft SKILL script**")
-st.warning(
-    "AI-generated code is a first draft. Review it and test on a copy of your design "
-    "before running it in Allegro. Function names may need correction."
-)
+
 st.divider()
 
 # ── Sidebar ───────────────────────────────────────────────
